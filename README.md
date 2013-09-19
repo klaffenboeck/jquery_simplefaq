@@ -1,6 +1,9 @@
 # JquerySimplefaq
 
-SimpleFAQ is a jquery plugin that helps our create collapsible FAQ
+SimpleFAQ is a jquery plugin that helps our create collapsible FAQ. This is a gem version of the simpleFAQ jquery plugin.
+https://github.com/jakerella/jquerySimpleFAQ
+
+Many thanks to jakerella
 
 ## Installation
 
@@ -18,7 +21,15 @@ Or install it yourself as:
 
 ## Usage
 
-Please refer to https://github.com/jakerella/jquerySimpleFAQ
+Reference it in application.css.erb.scss and application.js
+
+application.css.erb.scss:
+    @import "simplefaq";
+
+application.js:
+    //= require simplefaq
+
+Please refer to https://github.com/jakerella/jquerySimpleFA
 
 ## Contributing
 

@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["harikrishnan83@gmail.com"]
   spec.description   = %q{SimpleFAQ is a jquery plugin that helps in creating collapsible FAQ pages}
   spec.summary       = %q{SimpleFAQ is a jquery plugin that helps in creating collapsible FAQ pages}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/MavenHive/jquery_simplefaq"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

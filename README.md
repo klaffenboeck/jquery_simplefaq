@@ -29,7 +29,7 @@ application.css.erb.scss:
 application.js:
     //= require simplefaq
 
-Please refer to https://github.com/jakerella/jquerySimpleFA
+Please refer to https://github.com/jakerella/jquerySimpleFAQ
 
 ## Contributing
 
